@@ -30,6 +30,7 @@ vi CentOS-Base.repo
 
 把以下内容填写到CentOS-Base.repo文件中
 
+
 ```
 [nexus]
 name=Nexus Repository
