@@ -26,3 +26,16 @@
         - [git同步fork项目与原项目](./tools/git/git同步fork项目与原项目.md)
     - python
         - [本地配置私服地址](./tools/python/本地配置私服地址.md)
+    - oracle
+        - [创建分区表](./tools/oracle/创建分区表.md)
+        - [创建用户并且赋予权限](./tools/oracle/创建用户并且赋予权限.md)
+        - [创建表空间](./tools/oracle/创建表空间.md)
+        - [表空间扩展](./tools/oracle/表空间扩展.md)
+        - [基本信息查询](./tools/oracle/基本信息查询.md)
+        - [数据库密码过期处理](./tools/oracle/数据库密码过期处理.md)
+        - [查询并且删除分区](./tools/oracle/查询并且删除分区.md)
+        - [Date时间格式](./tools/oracle/Date时间格式.md)
+        - [dbLink](./tools/oracle/dbLink.md)
+- [技术相关](./technology/technology.md)
+    - 概念理解
+        - [云化概念理解](./technology/concept/云化概念理解.md)
