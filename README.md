@@ -9,6 +9,7 @@
         - 常用技巧及配置
             - [查看硬件信息](./os/centos/常用技巧及配置/查看硬件信息.md)
             - [查看文件夹大小](./os/centos/常用技巧及配置/查看文件夹大小.md)
+            - [scp命令](./os/centos/常用技巧及配置/scp命令.md)
             - [crontab使用](./os/centos/常用技巧及配置/crontab.md)
             - [nfs共享文件](./os/centos/常用技巧及配置/nfs共享文件.md)
             - [磁盘卷管理-VG LV PV](./os/centos/常用技巧及配置/磁盘卷管理-VG&LV&PV.md)
