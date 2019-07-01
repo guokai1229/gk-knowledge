@@ -1,5 +1,6 @@
+# docker设置
 
-## docker私服设置
+## 私服设置
 
 修改文件/etc/docker/daemon.json
 
@@ -14,6 +15,7 @@
     ]
 }
 ```
+
 
 docker pull 192.168.10.220:8083/redis:5.0
 
@@ -34,30 +36,4 @@ docker run --detach \
   --volume /opt/gitlab/logs:/var/log/gitlab \
   --volume /opt/gitlab/data:/var/opt/gitlab \
   gitlab/gitlab-ce:latest
-```
-
-
-## springboot actuator 基本信息配置
-
-```
-###基本信息
-info:
-  application: 名称
-  description: 描述
-  version: 版本
-  author: 作者
-##运行状态 actuator监控
-endpoints:
-  enabled: true
-  info:
-    sensitive: false
-  health:
-    sensitive: false
-management:
-  ##服务路径
-  context-path: /
-  security:
-    enabled: false
-  ##服务端口
-  port: 8081
 ```

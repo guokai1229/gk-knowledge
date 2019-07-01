@@ -13,6 +13,7 @@
             - [crontab使用](./os/centos/常用技巧及配置/crontab.md)
             - [nfs共享文件](./os/centos/常用技巧及配置/nfs共享文件.md)
             - [磁盘卷管理-VG LV PV](./os/centos/常用技巧及配置/磁盘卷管理-VG&LV&PV.md)
+            - [docker设置](./os/centos/常用技巧及配置/docker设置.md)
             - yum相关
                 - [通过yum源来下载安装及依赖包](./os/centos/常用技巧及配置/yum相关/通过yum源来下载安装及依赖包.md)
                 - [配置yum源信息](./os/centos/常用技巧及配置/yum相关/配置yum源信息.md)
@@ -41,3 +42,5 @@
     - 概念理解
         - [云化概念理解](./technology/concept/云化概念理解.md)
         - [常用的中间件的介绍](./technology/concept/常用的中间件的介绍.md)
+    - spring
+        - [Springboot-Actuator基本信息配置](./technology/spring/Springboot-Actuator基本信息配置.md)
