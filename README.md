@@ -20,3 +20,9 @@
             - [maridb](./os/centos/第三方软件安装/maridb.md)
 - [工具相关](./tools/tools.md)
     - git
+        - [git概述](./tools/git/git概述.md)
+        - [git设置自动提交](./tools/git/git设置自动提交.md)
+        - [git中永久保存用户名密码](./tools/git/git中用户名密码设置.md)
+        - [git同步fork项目与原项目](./tools/git/git同步fork项目与原项目.md)
+    - python
+        - [本地配置私服地址](./tools/python/本地配置私服地址.md)
