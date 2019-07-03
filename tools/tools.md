@@ -19,3 +19,4 @@
     - [查询并且删除分区](./oracle/查询并且删除分区.md)
     - [Date时间格式](./oracle/Date时间格式.md)
     - [dbLink](./oracle/dbLink.md)
+- ansible

@@ -17,3 +17,17 @@ mkdir /root/mypackages
 ```
 yumdownloader --resolve --destdir /root/mypackages/ ansible
 ```
+
+## 同步yum库文件到本地
+
+查看库列表
+
+```
+yum repolist
+```
+
+同步库文件
+
+```
+reposync -r base(库名称)
+```
