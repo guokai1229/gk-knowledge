@@ -45,4 +45,4 @@
     - spring
         - [Springboot-Actuator基本信息配置](./technology/spring/Springboot-Actuator基本信息配置.md)
     - Leaflet
-        - [概述](./technology/Leaflet/概述.md)
+        - [教程](./technology/Leaflet/概述.md)
