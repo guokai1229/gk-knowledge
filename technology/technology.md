@@ -8,4 +8,4 @@
 - spring
     - [Springboot-Actuator基本信息配置](./spring/Springboot-Actuator基本信息配置.md)
 - Leaflet
-    - [概述](./Leaflet/概述.md)
+    - [教程](./Leaflet/概述.md)
