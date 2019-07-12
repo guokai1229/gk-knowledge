@@ -47,3 +47,5 @@
         - [Springboot-Actuator基本信息配置](./technology/spring/Springboot-Actuator基本信息配置.md)
     - Leaflet
         - [教程](./technology/Leaflet/概述.md)
+- [其他](./other/other.md)
+    - [禅道项目管理系统自定义菜单](./other/禅道项目管理系统自定义菜单.md)
