@@ -14,6 +14,7 @@
             - [nfs共享文件](./os/centos/常用技巧及配置/nfs共享文件.md)
             - [磁盘卷管理-VG LV PV](./os/centos/常用技巧及配置/磁盘卷管理-VG&LV&PV.md)
             - [docker设置](./os/centos/常用技巧及配置/docker设置.md)
+            - [linux下解压被分割的zip文件](./os/centos/常用技巧及配置/linux下解压被分割的zip文件.md)
             - yum相关
                 - [通过yum源来下载安装及依赖包](./os/centos/常用技巧及配置/yum相关/通过yum源来下载安装及依赖包.md)
                 - [配置yum源信息](./os/centos/常用技巧及配置/yum相关/配置yum源信息.md)
