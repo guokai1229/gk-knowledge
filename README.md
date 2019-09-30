@@ -22,6 +22,7 @@
         - 第三方软件安装
             - [maridb](./os/centos/第三方软件安装/maridb.md)
 - [工具相关](./tools/tools.md)
+    - [maven](./tools/maven.md)
     - git
         - [git概述](./tools/git/git概述.md)
         - [git设置自动提交](./tools/git/git设置自动提交.md)
