@@ -47,6 +47,7 @@
         - [RBAC概念理解](./technology/concept/RBAC概念理解.md)
     - spring
         - [Springboot-Actuator基本信息配置](./technology/spring/Springboot-Actuator基本信息配置.md)
+        - [Spring常用注解](./technology/spring/Spring常用注解.md)
         - [SpringSecurity](./technology/spring/SpringSecurity/说明.md)
     - Leaflet
         - [教程](./technology/Leaflet/概述.md)
