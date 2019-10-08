@@ -22,3 +22,18 @@ management:
   ##服务端口
   port: 8081
 ```
+
+从springboot2.0之后发现了很大的变化
+
+现在开启所有的端点：
+
+```
+management:
+  endpoint:
+    health:
+      show-details: ALWAYS
+  endpoints:
+    web:
+      exposure:
+        include: *
+```
