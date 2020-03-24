@@ -40,6 +40,7 @@
         - [查询并且删除分区](./tools/oracle/查询并且删除分区.md)
         - [Date时间格式](./tools/oracle/Date时间格式.md)
         - [dbLink](./tools/oracle/dbLink.md)
+        - [删除用户和表空间](./tools/oracle/删除用户和表空间.md)
 - [技术相关](./technology/technology.md)
     - 概念理解
         - [云化概念理解](./technology/concept/云化概念理解.md)
