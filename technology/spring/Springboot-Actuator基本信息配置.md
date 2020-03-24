@@ -35,5 +35,5 @@ management:
   endpoints:
     web:
       exposure:
-        include: *
+        include: "*"
 ```
