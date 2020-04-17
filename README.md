@@ -30,6 +30,9 @@
         - [git同步fork项目与原项目](./tools/git/git同步fork项目与原项目.md)
     - python
         - [本地配置私服地址](./tools/python/本地配置私服地址.md)
+    - nginx
+        - [nginx安装](./tools/nginx/nginx安装.md)
+        - [nginx启用gzip配置](./tools/nginx/nginx启用gzip配置.md)
     - oracle
         - [创建分区表](./tools/oracle/创建分区表.md)
         - [创建用户并且赋予权限](./tools/oracle/创建用户并且赋予权限.md)
