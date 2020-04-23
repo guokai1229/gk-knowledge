@@ -21,6 +21,7 @@
                 - [搭建基于http的本地yum源服务器](./os/centos/常用技巧及配置/yum相关/搭建基于http的本地yum源服务器.md)
         - 第三方软件安装
             - [maridb](./os/centos/第三方软件安装/maridb.md)
+            - [jdk](./os/centos/第三方软件安装/jdk.md)
 - [工具相关](./tools/tools.md)
     - [maven](./tools/maven.md)
     - git
