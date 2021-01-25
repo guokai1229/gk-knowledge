@@ -49,6 +49,12 @@ systemctl start docker
 systemctl enable docker
 ```
 
+## 普通用户使用docker
+
+```
+usermod -G docker dkuser
+```
+
 ## docker常用命令说明
 
 ```shell
