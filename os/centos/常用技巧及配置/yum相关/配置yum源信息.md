@@ -4,7 +4,7 @@
 
 ### 备份原有yum配置
 
-```
+```shell
 cd /etc 
 
 mv yum.repos.d yum.repos.d.bak
@@ -12,7 +12,7 @@ mv yum.repos.d yum.repos.d.bak
 
 ### 新建yum配置
 
-```
+```shell
 
 mkdir yum.repos.d
 
@@ -24,7 +24,7 @@ touch CentOS-Base.repo
 
 ### 填写yum内容
 
-```
+```shell
 vi CentOS-Base.repo
 ```
 
@@ -55,7 +55,7 @@ gpgcheck=0
 
 ### 重置yum缓存
 
-```
+```shell
 yum clean all
 
 yum makecache

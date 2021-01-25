@@ -19,3 +19,4 @@
    - 第三方软件安装
       - [maridb](./centos/第三方软件安装/maridb.md)
       - [jdk](./centos/第三方软件安装/jdk.md)
+      - [docker](./centos/第三方软件安装/docker.md)

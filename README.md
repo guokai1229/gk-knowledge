@@ -22,6 +22,7 @@
         - 第三方软件安装
             - [maridb](./os/centos/第三方软件安装/maridb.md)
             - [jdk](./os/centos/第三方软件安装/jdk.md)
+            - [docker](./os/centos/第三方软件安装/docker.md)
 - [工具相关](./tools/tools.md)
     - [maven](./tools/maven.md)
     - git
