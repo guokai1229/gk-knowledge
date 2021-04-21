@@ -59,5 +59,7 @@
         - [SpringSecurity](./technology/spring/SpringSecurity/说明.md)
     - Leaflet
         - [教程](./technology/Leaflet/概述.md)
+    - Http
+        - [Http说明](./technology/Http/Http说明.md)
 - [其他](./other/other.md)
     - [禅道项目管理系统自定义菜单](./other/禅道项目管理系统自定义菜单.md)
