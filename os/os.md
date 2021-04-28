@@ -4,6 +4,8 @@
 
 - centos
    - 常用技巧及配置
+      - [防火墙](./centos/常用技巧及配置/防火墙.md)
+      - [ntp时钟同步](./centos/常用技巧及配置/ntp时钟同步.md)
       - [查看硬件信息](./centos/常用技巧及配置/查看硬件信息.md)
       - [查看文件夹大小](./centos/常用技巧及配置/查看文件夹大小.md)
       - [scp命令](./centos/常用技巧及配置/scp命令.md)
@@ -20,3 +22,4 @@
       - [maridb](./centos/第三方软件安装/maridb.md)
       - [jdk](./centos/第三方软件安装/jdk.md)
       - [docker](./centos/第三方软件安装/docker.md)
+      - [kubernetes集群](./centos/第三方软件安装/kubernetes集群.md)

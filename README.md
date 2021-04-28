@@ -7,6 +7,8 @@
 - [操作系统相关](./os/os.md)
     - centos
         - 常用技巧及配置
+            - [防火墙](./os/centos/常用技巧及配置/防火墙.md)
+            - [ntp时钟同步](./os/centos/常用技巧及配置/ntp时钟同步.md)
             - [查看硬件信息](./os/centos/常用技巧及配置/查看硬件信息.md)
             - [查看文件夹大小](./os/centos/常用技巧及配置/查看文件夹大小.md)
             - [scp命令](./os/centos/常用技巧及配置/scp命令.md)
@@ -23,6 +25,7 @@
             - [maridb](./os/centos/第三方软件安装/maridb.md)
             - [jdk](./os/centos/第三方软件安装/jdk.md)
             - [docker](./os/centos/第三方软件安装/docker.md)
+            - [kubernetes集群](./os/centos/第三方软件安装/kubernetes集群.md)
 - [工具相关](./tools/tools.md)
     - [maven](./tools/maven.md)
     - git
